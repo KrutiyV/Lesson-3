@@ -43,3 +43,4 @@ public class Homework3
         Console.WriteLine($"Sum is {sum}");
     }
 }
+//checked
